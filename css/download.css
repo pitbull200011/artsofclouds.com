@@ -1,0 +1,29 @@
+
+       #header{
+              background-color:rgb(0,180,214)
+              height:70px;
+              text-align:center;
+              font-size:30px;
+              color:whyte;
+              font-family:helvetica;
+
+
+}  
+       .media{
+              height:100px;
+              margin:10px;
+}
+       .button{
+              background-color:rgb(0,180,214)
+              border:solid 1px white;
+              width:150px;
+              height:40px;
+              
+}
+
+
+
+
+
+
+
